@@ -1,0 +1,6 @@
+{
+  "name": "HealSpace — Telekonseling Kesehatan Mental Mahasiswa",
+  "description": "Platform ruang aman telekonseling kesehatan mental mahasiswa terintegrasi verifikasi akademik SIAKAD untuk Mahasiswa, Konselor, dan Admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
